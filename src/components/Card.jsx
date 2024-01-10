@@ -1,9 +1,9 @@
-
-import TodoForm from "./TodoForm"
+import { EnterTodo } from "./EnterTodo"
 export default function Card() {
     return (
         <div className="card">
-            <TodoForm />
+            <EnterTodo />
+
         </div>
     )
 }
