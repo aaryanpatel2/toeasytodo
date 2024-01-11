@@ -2,6 +2,9 @@
   "version": "0.0.1",
   "manifest_version": 3,
   "name": "ToEasyToDo",
+  "permissions": [
+    "Tabs"
+  ],
   "description": "Minimalistic Browser To Do List Linked With Tabs",
   "action": {
       "default_popup": "index.html",
