@@ -1,3 +1,7 @@
+● Streamlined a feature-rich Chrome extension utilizing Javascript HTML and CSS
+● Pioneered React components, props, and events to provide browser accessibility
+● Leveraged Chrome extension development APIs to integrate with the user’s browser environment
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
